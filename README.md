@@ -1,4 +1,6 @@
-# Pasos para la Implementacion    
+# Pasos para la Implementacion   
+
+```
 No  Tarea  Terminada
 1  Decidir Nube  -
 2  Instalar Odoo  -
@@ -18,4 +20,5 @@ No  Tarea  Terminada
 16  Crear Puntos de Ventas  -
 17  Categorias de Productos  -
 18  Configurar Asientos  -
-19  Crear Cuentas Analiticas  -
+19  Crear Cuentas Analiticas -
+```
