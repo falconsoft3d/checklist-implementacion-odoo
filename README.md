@@ -1,0 +1,1 @@
+# checklist-implementacion-odoo
